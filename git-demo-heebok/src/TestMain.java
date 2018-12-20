@@ -16,7 +16,7 @@ public class TestMain {
 
 		System.out.println("Hello, Git!!(from HN)");
 		System.out.println("Hello, G~~~~~~~~");
->>>>>>> branch 'master' of https://github.com/hb1209/goott6-11.git
+
 	}
 
 }
