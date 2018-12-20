@@ -6,6 +6,8 @@ public class TestMain {
 		System.out.println("Hello, Git!!(from HN)");
 		
 		System.out.println("Hello, Git~~~~~~~~^^");
+		
+		//t수정했습니다.
 
 	}
 
